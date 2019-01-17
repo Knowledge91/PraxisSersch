@@ -278,7 +278,7 @@
                       </tr>
                       <tr>
                         <td>Freitag</td>
-                        <td>8<sup>00</sup> - 14<sup>00</sup></td> 
+                        <td>8<sup>00</sup> - 12<sup>00</sup></td> 
                         <td> - </td>
                         <td> - </td>
                       </tr>                                                
