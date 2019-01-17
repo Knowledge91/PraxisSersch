@@ -330,7 +330,7 @@
                   <img src="resources/images/Mitarbeiter/lauraBurjahn.jpg" alt="Laura Burjahn">
                 </div>
                 <div class="team-desc">
-                  <div class="team-title"><h4>Laura Burjahn</h4><span>ZFA, Prohylaxehelferin</span></div>
+                  <div class="team-title"><h4>Laura Burjahn</h4><span>ZFA, Prophylaxehelferin</span></div>
                 </div>
               </div>
 
