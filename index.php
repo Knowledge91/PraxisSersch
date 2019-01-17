@@ -382,7 +382,7 @@
 
               <div class="team">
                 <div class="team-image">
-                  <img src="resources/images/Mitarbeiter/SvenjaFüg.jpg" alt="Svneja Füg">
+                  <img src="resources/images/Mitarbeiter/svenjaFueg.jpg" alt="Svneja Füg">
                 </div>
                 <div class="team-desc">
                   <div class="team-title"><h4>Svenja Füg</h4><span>Ausbildung ZFA, Prophylaxehelferin</span></div>
