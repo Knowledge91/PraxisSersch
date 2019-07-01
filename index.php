@@ -49,49 +49,6 @@
      
     </style>
 
-    
-    <script>
-     //            GOOGLE ANALYTICS
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-     ga('create', 'UA-84264173-1', 'auto');
-     ga('send', 'pageview');
-
-
-    </script>
-    
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript">
-     (function (d, w, c) {
-       (w[c] = w[c] || []).push(function() {
-         try {
-           w.yaCounter39653640 = new Ya.Metrika({
-             id:39653640,
-             clickmap:true,
-             trackLinks:true,
-             accurateTrackBounce:true,
-             webvisor:true
-           });
-         } catch(e) { }
-       });
-
-       var n = d.getElementsByTagName("script")[0],
-         s = d.createElement("script"),
-         f = function () { n.parentNode.insertBefore(s, n); };
-       s.type = "text/javascript";
-       s.async = true;
-       s.src = "https://mc.yandex.ru/metrika/watch.js";
-
-       if (w.opera == "[object Opera]") {
-         d.addEventListener("DOMContentLoaded", f, false);
-       } else { f(); }
-     })(document, window, "yandex_metrika_callbacks");
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/39653640" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
   </head>
 
   <body class="stretched" data-loader-html="<div id='css3-spinner-svg-pulse-wrapper'><svg id='css3-spinner-svg-pulse' version='1.2' height='210' width='550' xmlns='http://www.w3.org/2000/svg' viewport='0 0 60 60' xmlns:xlink='http://www.w3.org/1999/xlink'><path id='css3-spinner-pulse' stroke='#DE6262' fill='none' stroke-width='2' stroke-linejoin='round' d='M0,90L250,90Q257,60 262,87T267,95 270,88 273,92t6,35 7,-60T290,127 297,107s2,-11 10,-10 1,1 8,-10T319,95c6,4 8,-6 10,-17s2,10 9,11h210' /></svg></div>">
@@ -1043,25 +1000,6 @@
                     <div class="headline">
                       <h2>4. Analyse Tools und Werbung</h2>
                     </div>
-                    <h3>Google Analytics</h3>
-                    <p>
-                      Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics.
-                      Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA
-                      94043, USA.
-                    </p>
-                    <p>
-                      Google Analytics verwendet so genannte "Cookies". Das sind Textdateien, die
-                      auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung
-                      der Website durch Sie ermöglichen. Die durch den Cookie erzeugten
-                      Informationen über Ihre Benutzung dieser Website werden in der Regel an
-                      einen Server von Google in den USA übertragen und dort gespeichert.
-                    </p>
-                    <p>
-                      Die Speicherung von Google-Analytics-Cookies erfolgt auf Grundlage von Art.
-                      6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse
-                      an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch
-                      seine Werbung zu optimieren.
-                    </p>
                     <h3>Browser Plugin</h3>
                     <p>
                       Sie können die Speicherung der Cookies durch eine entsprechende Einstellung
