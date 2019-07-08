@@ -1153,5 +1153,15 @@
 
     </script>
 
+    </script>
+          <script type="text/javascript" id="cookieinfo"
+                                           src="//cookieinfoscript.com/js/cookieinfo.min.js"
+
+                                              data-message="Wir verwenden Coockies um das Benutzererlebnis zu verbessern. Mit dem Besuch dieser Website stimmen Sie der Verwendung von Cookies zu."
+                                              data-moreinfo="https://de.wikipedia.org/wiki/HTTP-Cookie"
+                                              data-linkmsg="Mehr Infos"
+                                              data-text-align="left"
+                                              data-close-text="Ich Stimme zu!">
+                                              </script>
   </body>
 </html>
