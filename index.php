@@ -275,10 +275,10 @@
 
               <div class="team">
                 <div class="team-image">
-                  <img src="resources/images/Mitarbeiter/saskiaHofmann.jpg" alt="Saskia Hohmann">
+                  <img src="resources/images/Mitarbeiter/melanieLöber.jpg" alt="Melanie Löber">
                 </div>
                 <div class="team-desc">
-                  <div class="team-title"><h4>Saskia Hohmann</h4><span>ZFA, Prophylaxehelferin</span></div>
+                  <div class="team-title"><h4>Melanie Löber</h4><span>ZMF, ZMP, Prophylaxehelferin</span></div>
                 </div>
               </div>
 
@@ -339,7 +339,7 @@
 
               <div class="team">
                 <div class="team-image">
-                  <img src="resources/images/Mitarbeiter/svenjaFueg.jpg" alt="Svneja Füg">
+                  <img src="resources/images/Mitarbeiter/svenjaFüg.jpg" alt="Svneja Füg">
                 </div>
                 <div class="team-desc">
                   <div class="team-title"><h4>Svenja Füg</h4><span>ZFA, Prophylaxehelferin</span></div>
@@ -361,6 +361,15 @@
                 </div>
                 <div class="team-desc">
                   <div class="team-title"><h4>Michaela Hofman</h4><span>ZFA</span></div>
+                </div>
+              </div>
+
+              <div class="team">
+                <div class="team-image">
+                  <img src="resources/images/Mitarbeiter/halimeArslan.jpg" alt="Halime Arslan">
+                </div>
+                <div class="team-desc">
+                  <div class="team-title"><h4>Halime Arslan</h4><span>Zahnmedizinische Fachangestellte, Prophylaxehelferin</span></div>
                 </div>
               </div>
 
@@ -920,11 +929,11 @@
                     <h3>Gesetzlich vorgeschriebener Datenschutzbeauftragter</h3>
                     <p>Wir haben für unser Unternehmen einen Datenschutzbeauftragten bestellt.</p>
                     <p>Frank Blum <br />
-                       Alte Str. 14 <br />
+                      Alte Str. 14<br />
                       36088 Hünfeld</p>
 
                     <p>Telefon: 06652-9091155 <br />
-                       E-Mail: dsb.blum@gmx.de</p>
+                      E-Mail: dsb.blum@gmx.de</p>
 
 
                     <h2>5. Datenerfassung auf unserer Website</h2>
